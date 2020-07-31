@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello-world 👋
 
 <!--
 **misscyber/misscyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# hello-world
-french side of the internet<br>
+# french side of the internet
 hello beautiful, like alice you just fell in this strange place of mine. welcome. my name is tania. she / her. i’m a twenty-something gemini young adult who likes cats and stuff. in my free time i enjoy playing the sims, acting, taking pictures with my canon 600D, messing with photoshop cc, coding html structures, watching movies, doodling on my notebook, binge-watching tv shows, fangirling, roleplaying. i speak french as my first language, arabic as my mother tongue, advanced c2 english, basic a2 spanish. i am also learning german, italian, japanese, let’s say i’m a multilingual freak. i would really love to get to know you, so don’t be shy to message me, i'd really love to chat with you or just answer questions.
